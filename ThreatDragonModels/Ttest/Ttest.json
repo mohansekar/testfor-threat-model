@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "description": "test",
+    "owner": "test",
+    "title": "Ttest"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "test"
+  },
+  "location": {
+    "organisation": "mohansekar",
+    "repo": "testfor-threat-model",
+    "branch": "master",
+    "model": "Ttest"
+  }
+}
